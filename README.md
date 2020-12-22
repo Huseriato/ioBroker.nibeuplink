@@ -5,7 +5,7 @@ This ioBroker adapter receives data from a Nibe heat pump from Nibe Uplink.
 
 ## Using this adapter
 
-1. You need a Nibe heat pump - bye one if you don't have ;-)
+1. You need a Nibe heat pump - buy one if you don't have ;-)
 2. You need an account at Nibe Uplink: https://www.nibeuplink.com/
 3. After logging in you have an URL in this form: https://www.nibeuplink.com/System/XXXXX/Status/Overview
 4. Instead of XXXXX there is a number. This is your System ID. We need this ID.
